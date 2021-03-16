@@ -9,7 +9,7 @@
     <title>BMW World</title>
 </head>
 <body >
-  <nav class="navbar fixed-top navbar-light bg-light">
+  <nav class="navbar fixed-top navbar-expand-lg navbar-light bg-light">
     <div class="container-fluid">
     <a class="navbar-brand" href="index.php"><strong>B M W</strong> Motorrad </a>
       <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
@@ -38,7 +38,7 @@
     </div>
   </nav>
 
-<nav class="navbar fixed-top navbar-light bg-light">
+<nav class="navbar fixed-top navbar-dark bg-dark">
 <div class="container-fluid">
   <a class="navbar-brand" href="index.php">
     <img src="https://www.bmw.co.uk/etc/clientlibs/digitals2/clientlib/media/img/BMW_White_Logo.svg" alt="" width="140" height="35" class="d-inline-block align-top">
