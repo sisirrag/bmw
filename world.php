@@ -55,7 +55,7 @@
           <div class="card bg-dark text-white">
           <img src="img (2).jpg" class="card-img" alt="...">
           <div class="card-img-overlay">
-            <h5 class="card-title">SHeer Driving Experience</h5>
+            <h5 class="card-title">Sheer Driving Experience</h5>
             <p class="card-text">Join The BMW Legacy</p>
             <p class="card-text">Book Now</p>
           </div>
