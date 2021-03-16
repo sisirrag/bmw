@@ -40,7 +40,7 @@
     
 <nav class="navbar navbar-dark bg-dark">
     <div class="container-fluid">
-      <a class="navbar-brand" href="#">
+      <a class="navbar-brand" href="index.html">
         <img src="https://www.bmw.co.uk/etc/clientlibs/digitals2/clientlib/media/img/BMW_White_Logo.svg" alt="" width="140" height="35" class="d-inline-block align-top">
         
       </a>
