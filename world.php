@@ -57,7 +57,7 @@
           <div class="card-img-overlay">
             <h5 class="card-title">Sheer Driving Experience</h5>
             <p class="card-text">Join The BMW Legacy</p>
-            <p class="card-text"><a class="btn btn-primary" href="book.php" role="button">Understood</a></p>
+            <p class="card-text"><a class="btn btn-outline-dark" href="book.php" role="button">Book Now</a></p>
           </div>
         </div>
       </div> 
