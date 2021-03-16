@@ -58,8 +58,8 @@
             <div class="col">
                 <table class="table table-borderless" style="background-color: #000000; color: #ffffff;">
                     <tr>
-                    <br>
-                        <td colspan="2"><center><h3>Booking Details</h3></center></td><br>
+                    <br><br>
+                        <td colspan="2"><center><h3>Booking Details</h3></center></td><br><br><br>
                     </tr>
                 
                 <tr>
