@@ -11,7 +11,7 @@
 <body>
   <nav class="navbar navbar-expand-lg navbar-light bg-light">
     <div class="container-fluid">
-      <a class="navbar-brand" href="index.html">BMW</a>
+    <a class="navbar-brand" href="index.html"><strong>B M W</strong> Motorrad </a>
       <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
         <span class="navbar-toggler-icon"></span>
       </button>
@@ -42,7 +42,7 @@
 <div class="container-fluid">
   <a class="navbar-brand" href="index.html">
     <img src="https://www.bmw.co.uk/etc/clientlibs/digitals2/clientlib/media/img/BMW_White_Logo.svg" alt="" width="140" height="35" class="d-inline-block align-top">
-    
+    <strong>S</strong>heer <strong>D</strong>riving <strong>P</strong>leasure.
   </a>
 </div>
 </nav>
