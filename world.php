@@ -68,7 +68,7 @@
           <div class="card-img-overlay">
             <h5 class="card-title">Sheer Driving Experience</h5>
             <p class="card-text">Join The BMW Legacy</p>
-            <p class="card-text">Book Now</p>
+            <p class="card-text"><a class="btn btn-outline-dark" href="book.php" role="button">Book Now</a></p>
           </div>
         </div></div>
         <div class="col"><div class="card bg-dark text-white">
@@ -76,8 +76,7 @@
           <div class="card-img-overlay">
             <h5 class="card-title">Sheer Driving Experience</h5>
             <p class="card-text">Join The BMW Legacy</p>
-            <p class="card-text">Book Now</p>
-          </div>
+            <p class="card-text"><a class="btn btn-outline-dark" href="book.php" role="button">Book Now</a></p>          </div>
         </div></div>
       </div><br><br>
       <div class="row">
@@ -86,16 +85,14 @@
           <div class="card-img-overlay">
             <h5 class="card-title">Sheer Driving Experience</h5>
             <p class="card-text">Join The BMW Legacy</p>
-            <p class="card-text">Book Now</p>
-          </div>
+            <p class="card-text"><a class="btn btn-outline-dark" href="book.php" role="button">Book Now</a></p>          </div>
         </div></div>
         <div class="col"><div class="card bg-dark text-white">
           <img src="img (6).jpg" class="card-img" alt="...">
           <div class="card-img-overlay">
             <h5 class="card-title">Sheer Driving Experience</h5>
             <p class="card-text">Join The BMW Legacy</p>
-            <p class="card-text">Book Now</p>
-          </div>
+            <p class="card-text"><a class="btn btn-outline-dark" href="book.php" role="button">Book Now</a></p>          </div>
         </div></div>
       </div><br><br>
       <div class="row">
@@ -104,8 +101,7 @@
           <div class="card-img-overlay">
             <h5 class="card-title">SHeer Driving Experience</h5>
             <p class="card-text">Join The BMW Legacy</p>
-            <p class="card-text">Book Now</p>
-          </div>
+<p class="card-text"><a class="btn btn-outline-dark" href="book.php" role="button">Book Now</a></p>          </div>
         </div></div>
         
       </div><br><br>
@@ -115,24 +111,21 @@
           <div class="card-img-overlay">
             <h5 class="card-title">Sheer Driving Experience</h5>
             <p class="card-text">Join The BMW Legacy</p>
-            <p class="card-text">Book Now</p>
-          </div>
+<p class="card-text"><a class="btn btn-outline-dark" href="book.php" role="button">Book Now</a></p>          </div>
         </div></div>
         <div class="col"><div class="card bg-dark text-white">
           <img src="img (9).jpg" class="card-img" alt="...">
           <div class="card-img-overlay">
             <h5 class="card-title">Sheer Driving Experience</h5>
             <p class="card-text">Join The BMW Legacy</p>
-            <p class="card-text">Book Now</p>
-          </div>
+<p class="card-text"><a class="btn btn-outline-dark" href="book.php" role="button">Book Now</a></p>          </div>
         </div></div>
         <div class="col"><div class="card bg-dark text-white">
           <img src="img (10).jpg" class="card-img" alt="...">
           <div class="card-img-overlay">
             <h5 class="card-title">Sheer Driving Experience</h5>
             <p class="card-text">Join The BMW Legacy</p>
-            <p class="card-text">Book Now</p>
-          </div>
+<p class="card-text"><a class="btn btn-outline-dark" href="book.php" role="button">Book Now</a></p>          </div>
         </div></div>
       </div><br><br>
     </div>
