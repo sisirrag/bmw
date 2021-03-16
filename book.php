@@ -18,16 +18,16 @@
           <div class="collapse navbar-collapse" id="navbarSupportedContent">
             <ul class="navbar-nav me-auto mb-2 mb-lg-0">
               <li class="nav-item">
-                <a class="nav-link active" aria-current="page" href="index.html">Home</a>
+                <a class="nav-link active" aria-current="page" href="index.php">Home</a>
               </li>
               <li class="nav-item">
-                <a class="nav-link" href="models.html">Models</a>
+                <a class="nav-link" href="models.php">Models</a>
               </li>
               <li class="nav-item">
-                <a class="nav-link" href="book.html">Bookings</a>
+                <a class="nav-link" href="book.php">Bookings</a>
               </li>
               <li class="nav-item">
-                <a class="nav-link" href="world.html">BMW World</a>
+                <a class="nav-link" href="world.php">BMW World</a>
               </li>
             </ul>
             <form class="d-flex">
