@@ -9,7 +9,7 @@
     <title>Booking</title>
 </head>
 <body background="https://images.pexels.com/photos/70912/pexels-photo-70912.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940">
-    <nav class="navbar fixed-top navbar-expand-lg navbar-light bg-light">
+    <nav class="navbar fixed-top  navbar-light bg-light">
         <div class="container-fluid">
         <a class="navbar-brand" href="index.php"><strong>B M W</strong> Motorrad </a>
           <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
